@@ -1,0 +1,6 @@
+.menu-sanfona li ul{
+    display:none;
+}
+.menu-sanfona li:focus ul{
+    display:block;
+}
